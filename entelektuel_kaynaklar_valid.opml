@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Entelektüel Türkiye Kaynakları</title>
+  </head>
+  <body>
+    <outline text="Felsefe" title="Felsefe">
+      <outline type="rss" text="Felsefe Tartışmaları Dergisi" title="Felsefe Tartışmaları Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/felsefetartismalari/rss-feeds" htmlUrl="https://dergipark.org.tr/tr/pub/felsefetartismalari" />
+      <outline type="rss" text="Felsefe.net" title="Felsefe.net" xmlUrl="https://felsefe.net/feed/" htmlUrl="https://felsefe.net" />
+      <outline type="rss" text="Philosophy Now" title="Philosophy Now" xmlUrl="https://philosophynow.org/feed" htmlUrl="https://philosophynow.org" />
+    </outline>
+    <outline text="Psikoloji" title="Psikoloji">
+      <outline type="rss" text="Psikiyatride Güncel Yaklaşımlar" title="Psikiyatride Güncel Yaklaşımlar" xmlUrl="https://dergipark.org.tr/tr/pub/pgy/rss-feeds" htmlUrl="https://dergipark.org.tr/tr/pub/pgy" />
+      <outline type="rss" text="Psikoloji Bilimi" title="Psikoloji Bilimi" xmlUrl="https://psikolojibilimi.com/feed/" htmlUrl="https://psikolojibilimi.com" />
+      <outline type="rss" text="Mind Hacks" title="Mind Hacks" xmlUrl="https://mindhacks.com/feed/" htmlUrl="https://mindhacks.com" />
+    </outline>
+    <outline text="Tarih" title="Tarih">
+      <outline type="rss" text="Toplumsal Tarih" title="Toplumsal Tarih" xmlUrl="https://www.tarihvakfi.org.tr/rss.xml" htmlUrl="https://www.tarihvakfi.org.tr" />
+      <outline type="rss" text="Tarih Portalı" title="Tarih Portalı" xmlUrl="https://www.tarihportali.net/feed" htmlUrl="https://www.tarihportali.net" />
+    </outline>
+    <outline text="Sosyoloji" title="Sosyoloji">
+      <outline type="rss" text="Sosyoloji Dergisi (İÜ)" title="Sosyoloji Dergisi (İÜ)" xmlUrl="https://dergipark.org.tr/tr/pub/iussd/rss-feeds" htmlUrl="https://dergipark.org.tr/tr/pub/iussd" />
+      <outline type="rss" text="Sosyologer" title="Sosyologer" xmlUrl="https://sosyologer.com/feed/" htmlUrl="https://sosyologer.com" />
+    </outline>
+    <outline text="Evrim & Biyoloji" title="Evrim & Biyoloji">
+      <outline type="rss" text="Evrim Ağacı" title="Evrim Ağacı" xmlUrl="https://evrimagaci.org/rss.xml" htmlUrl="https://evrimagaci.org" />
+      <outline type="rss" text="Bilimfili" title="Bilimfili" xmlUrl="https://bilimfili.com/feed/" htmlUrl="https://bilimfili.com" />
+    </outline>
+    <outline text="Siyaset & Köşe Yazıları" title="Siyaset & Köşe Yazıları">
+      <outline type="rss" text="T24 Köşe Yazıları" title="T24 Köşe Yazıları" xmlUrl="https://t24.com.tr/rss/kose-yazilari.xml" htmlUrl="https://t24.com.tr/kose-yazilari" />
+      <outline type="rss" text="Karar Gazetesi" title="Karar Gazetesi" xmlUrl="https://www.karar.com/rss/kose-yazilari" htmlUrl="https://www.karar.com/kose-yazilari" />
+      <outline type="rss" text="Birikim Dergisi" title="Birikim Dergisi" xmlUrl="https://birikimdergisi.com/rss" htmlUrl="https://birikimdergisi.com" />
+      <outline type="rss" text="Bianet Yorumlar" title="Bianet Yorumlar" xmlUrl="https://bianet.org/rss/kose-yazilari" htmlUrl="https://bianet.org/kose-yazilari" />
+    </outline>
+    <outline text="Kültür & Edebiyat" title="Kültür & Edebiyat">
+      <outline type="rss" text="Artfulliving" title="Artfulliving" xmlUrl="https://www.artfulliving.com.tr/rss.xml" htmlUrl="https://www.artfulliving.com.tr" />
+      <outline type="rss" text="K24 (Kitap)" title="K24 (Kitap)" xmlUrl="https://t24.com.tr/k24/rss" htmlUrl="https://t24.com.tr/k24" />
+    </outline>
+    <outline text="Bilim & Teknoloji" title="Bilim & Teknoloji">
+      <outline type="rss" text="Webtekno" title="Webtekno" xmlUrl="https://www.webtekno.com/feed" htmlUrl="https://www.webtekno.com" />
+      <outline type="rss" text="ShiftDelete.Net" title="ShiftDelete.Net" xmlUrl="https://www.shiftdelete.net/feed" htmlUrl="https://www.shiftdelete.net" />
+      <outline type="rss" text="Bilim.org" title="Bilim.org" xmlUrl="https://bilim.org/feed/" htmlUrl="https://bilim.org" />
+    </outline>
+    <outline text="Sağlık & Yaşam" title="Sağlık & Yaşam">
+      <outline type="rss" text="Sağlık Bilimleri Dergisi" title="Sağlık Bilimleri Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/sbd/rss-feeds" htmlUrl="https://dergipark.org.tr/tr/pub/sbd" />
+    </outline>
+    <outline text="Eğitim & Öğrenme" title="Eğitim & Öğrenme">
+      <outline type="rss" text="Egitim Ajansı" title="Egitim Ajansı" xmlUrl="https://www.egitimajansi.com/rss/" htmlUrl="https://www.egitimajansi.com" />
+      <outline type="rss" text="TED Eğitim" title="TED Eğitim" xmlUrl="https://www.ted.com/topics/education.rss" htmlUrl="https://www.ted.com/topics/education" />
+    </outline>
+    <outline text="Yapay Zeka & Dijital Kültür" title="Yapay Zeka & Dijital Kültür">
+      <outline type="rss" text="Medium AI" title="Medium AI" xmlUrl="https://medium.com/feed/tag/artificial-intelligence" htmlUrl="https://medium.com/tag/artificial-intelligence" />
+      <outline type="rss" text="Kozmik Anafor" title="Kozmik Anafor" xmlUrl="https://www.kozmikanafor.com/feed/" htmlUrl="https://www.kozmikanafor.com" />
+    </outline>
+  </body>
+</opml>
